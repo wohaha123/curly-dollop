@@ -1,0 +1,17 @@
+students = {
+    "小白": {
+        "age": 23,
+        "height": 170.5,
+        "weight": 60
+    },
+    "小黃": {
+        "age": 30,
+        "height": 160.5,
+        "weight": 38
+    },
+    "小綠": {
+        "age": 15,
+        "height": 160.5,
+        "weight": 38
+    }
+}
